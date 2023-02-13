@@ -21,6 +21,7 @@ En concreto, el contenido de este repositorio está enfocado a los inventarios d
 
 *   [Escenarios en SIMANFOR](https://github.com/simanfor/escenarios)
 *   [Introducción a SIMANFOR](https://github.com/simanfor/introduccion)
+*   [Manual de uso de SIMANFOR](https://github.com/simanfor/manual)
 *   [Modelos en SIMANFOR](https://github.com/simanfor/modelos)
 *   [Publicaciones acerca de SIMANFOR](https://github.com/simanfor/publicaciones)
 *   [Resultados de simulación en SIMANFOR](https://github.com/simanfor/resultados)
