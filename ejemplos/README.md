@@ -1,19 +1,48 @@
-<h1><center>Ejemplos de inventarios para</center></h1>
-<center>
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="350"/>
-</center>
+# Ejemplos de inventarios para
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
+</p>
 
 
 ---
 
 
 Esta carpeta contiene diferentes inventarios con datos listos para ser utilizados en SIMANFOR:
-*   Cladanifer: datos de la [publicación original](dx.doi.org/10.1016/j.agrformet.2015.07.001) de donde se obtuvo el modelo de *Cistus ladanifer*. Puede ser utilizado con el modelo *Cladanifer_stand__zam__v01*
-*   IFN-Qpyrenaica-datos_ejemplo: parcela 24_2355_N_N del [IFN3](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/ifn3.aspx), correspondiente a una masa pura de rebollo (*Quercus pyrenaica*) en la provincia de León. Puede ser utilizado con el modelo *Qpyrenaica__cyl__v01*
-*   Mixtos-PnigraPsylvestris: datos de ejemplo del [IFN2](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/ifn2.aspx), correspondientes a una masa mixta de *Pinus nigra* y *Pinus sylvestris*. Puede ser utilizado con el modelo *PnigraPsylvestris_mix__es__v01*
-*   Pnigra_CyL-datos_ejemplo: datos para parcelas con 4 calidades de estación diferentes para pino salgareño (*Pinus nigra*) en Castilla y León, obtenidos de [Del Río et al., 2006](https://www.researchgate.net/publication/265520003_Manual_de_gestion_para_masas_procedentes_de_repoblacion_de_Pinus_pinaster_Ait_Pinus_sylvestris_L_y_Pinus_nigra_Arn_en_Castilla_y_Leon). Puede ser utilizado con el modelo *Pnigra_stand__CyL__v01*
-*   Ppinaster_CyL-datos_ejemplo: datos para parcelas con 5 calidades de estación diferentes para pino negral (*Pinus pinaster*) en Castilla y León, obtenidos de [Del Río et al., 2006](https://www.researchgate.net/publication/265520003_Manual_de_gestion_para_masas_procedentes_de_repoblacion_de_Pinus_pinaster_Ait_Pinus_sylvestris_L_y_Pinus_nigra_Arn_en_Castilla_y_Leon). Puede ser utilizado con el modelo *Ppinaster_me__sim__v01/2*
-*   Psylvestris_CyL-datos_ejemplo: datos para parcelas con 5 calidades de estación diferentes para pino silvestre (*Pinus sylvestris*) en Castilla y León, obtenidos de [Del Río et al., 2006](https://www.researchgate.net/publication/265520003_Manual_de_gestion_para_masas_procedentes_de_repoblacion_de_Pinus_pinaster_Ait_Pinus_sylvestris_L_y_Pinus_nigra_Arn_en_Castilla_y_Leon). Puede ser utilizado con el modelo *Psylvestris__sisc__v01/2*
+
+* :floppy_disk: Cladanifer: datos de la [publicación original](dx.doi.org/10.1016/j.agrformet.2015.07.001) de donde se obtuvo el modelo de *Cistus ladanifer*. Puede ser utilizado con el modelo *Cladanifer_stand__zam*
+* :floppy_disk: IFN3-datos_ejemplo: parcelas de ejemplo para modelos de masas puras obtenidas del [IFN3](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/ifn3.aspx). El nombre del archivo hace referencia al nombre del modelo para el que debe de ser utilizado, por ejemplo:
+    *   IFN3_**PINEA_cat**.xlsx :arrow_right: datos de una parcela de pino piñonero (*Pinus pinea*) perteneciente al IFN3 y que debe de ser utilizado por el modelo **PINEA_cat**.
+    *    IFN3_**IBEROPS**.xlsx :arrow_right: datos de una parcela de pino silvestre (*Pinus sylvestris*) perteneciente al IFN3 y que debe de ser utilizado por el modelo **IBEROPS**.
+
+:bulb: Recuerda que la información de los modelos está disponible en [este repositorio](https://github.com/simanfor/modelos).
+
+* :floppy_disk: mix_PsylPpinater: datos de ejemplo del [IFN2](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/ifn2.aspx), correspondientes a una masa mixta de *Pinus sylvestris* y *Pinus pinaster*. Puede ser utilizado con el modelo *Masas mixtas de España*
+
+* :floppy_disk: Pnigra_CyL-datos_ejemplo: datos para parcelas con 4 calidades de estación diferentes para pino salgareño (*Pinus nigra*) en Castilla y León, obtenidos de [Del Río et al., 2006](https://www.researchgate.net/publication/265520003_Manual_de_gestion_para_masas_procedentes_de_repoblacion_de_Pinus_pinaster_Ait_Pinus_sylvestris_L_y_Pinus_nigra_Arn_en_Castilla_y_Leon). Puede ser utilizado con el modelo *Pnigra_stand__CyL* o *Pnigra__cat*
+* :floppy_disk: Ppinaster_CyL-datos_ejemplo: datos para parcelas con 5 calidades de estación diferentes para pino negral (*Pinus pinaster*) en Castilla y León, obtenidos de [Del Río et al., 2006](https://www.researchgate.net/publication/265520003_Manual_de_gestion_para_masas_procedentes_de_repoblacion_de_Pinus_pinaster_Ait_Pinus_sylvestris_L_y_Pinus_nigra_Arn_en_Castilla_y_Leon). Puede ser utilizado con el modelo *IBEROPT*
+* :floppy_disk: Psylvestris_CyL-datos_ejemplo: datos para parcelas con 5 calidades de estación diferentes para pino silvestre (*Pinus sylvestris*) en Castilla y León, obtenidos de [Del Río et al., 2006](https://www.researchgate.net/publication/265520003_Manual_de_gestion_para_masas_procedentes_de_repoblacion_de_Pinus_pinaster_Ait_Pinus_sylvestris_L_y_Pinus_nigra_Arn_en_Castilla_y_Leon). Puede ser utilizado con el modelo *IBEROPS*
+
+---
+
+## :email: Contacto
+
+*Para cualquier duda o sugerencia puedes contactar con el equipo técnico de SIMANFOR en simanfor.forest@uva.es*.
+
+---
+
+<h1 align="center" >
+
+[*Inventarios de datos en SIMANFOR*](https://github.com/simanfor/inventarios) - [*Página web de SIMANFOR*](https://www.simanfor.es/)
+
+</h1>
 
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
+</p>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png" alt="iufor" width="350"/>
+<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png" alt="uva_etsiiaa" width="250"/>
+</p>

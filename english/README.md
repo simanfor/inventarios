@@ -7,7 +7,7 @@
 
 🇬🇧 **You are viewing the content of the repository in English**
 
-:es: *[Versión en español aquí](https://github.com/simanfor/inventarios/blob/main/english/)*
+:es: *[Versión en español aquí](https://github.com/simanfor/inventarios/blob/main/)*
 
 ---
 
