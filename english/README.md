@@ -22,7 +22,7 @@ In this repository, you will find documentation to help you understand how to bu
 * :floppy_disk: **examples**: Example inventories created from real data
 * :pencil: **templates**: Data inventory templates to be used in SIMANFOR
 * :book: :es: **SIMANFOR_inventarios.pdf**: Explanatory document on how to fill out a data inventory in Spanish
-* :book: 🇬🇧 **SIMANFOR_inventarios_EN.pdf**: Explanatory document on how to fill out a data inventory in English
+* :book: 🇬🇧 **english/SIMANFOR_inventories.pdf**: Explanatory document on how to fill out a data inventory in English
 
 ---
 

@@ -22,7 +22,7 @@ En este repositorio encontrarás documentación que te ayudará a entender cómo
 * :floppy_disk: **ejemplos**: inventarios de ejemplo elaborados a partir de datos reales
 * :pencil: **plantillas**: plantillas de inventarios de datos para ser utilizados en SIMANFOR
 * :book: :es: **SIMANFOR_inventarios.pdf**: documento explicativo acerca de cómo rellenar un inventario de datos en español
-* :book: 🇬🇧 **SIMANFOR_inventarios_EN.pdf**: documento explicativo acerca de cómo rellenar un inventario de datos en inglés
+* :book: 🇬🇧 **english/SIMANFOR_inventories.pdf**: documento explicativo acerca de cómo rellenar un inventario de datos en inglés
 
 ---
 
