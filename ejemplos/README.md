@@ -14,6 +14,7 @@ Esta carpeta contiene diferentes inventarios con datos listos para ser utilizado
 * :floppy_disk: IFN3-datos_ejemplo: parcelas de ejemplo para modelos de masas puras obtenidas del [IFN3](https://www.miteco.gob.es/es/biodiversidad/servicios/banco-datos-naturaleza/informacion-disponible/ifn3.aspx). El nombre del archivo hace referencia al nombre del modelo para el que debe de ser utilizado, por ejemplo:
     *   IFN3_**PINEA_cat**.xlsx :arrow_right: datos de una parcela de pino piñonero (*Pinus pinea*) perteneciente al IFN3 y que debe de ser utilizado por el modelo **PINEA_cat**.
     *    IFN3_**IBEROPS**.xlsx :arrow_right: datos de una parcela de pino silvestre (*Pinus sylvestris*) perteneciente al IFN3 y que debe de ser utilizado por el modelo **IBEROPS**.
+    *    IFN3_IBEROPS_**3parcelas**.xlsx :arrow_right: datos de **3** parcelas de pino silvestre (*Pinus sylvestris*) perteneciente al IFN3 (tan solo la primera es original, las dos siguientes han sido inventadas para poder simular varias parcelas a la vez) y que debe de ser utilizado por el modelo **IBEROPS**.
 
 :bulb: Recuerda que la información de los modelos está disponible en [este repositorio](https://github.com/simanfor/modelos).
 
