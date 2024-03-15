@@ -15,6 +15,7 @@ Esta carpeta contiene diferentes inventarios con datos listos para ser utilizado
     *   IFN3_**PINEA_cat**.xlsx :arrow_right: datos de una parcela de pino piñonero (*Pinus pinea*) perteneciente al IFN3 y que debe de ser utilizado por el modelo **PINEA_cat**.
     *    IFN3_**IBEROPS**.xlsx :arrow_right: datos de una parcela de pino silvestre (*Pinus sylvestris*) perteneciente al IFN3 y que debe de ser utilizado por el modelo **IBEROPS**.
     *    IFN3_IBEROPS_**3parcelas**.xlsx :arrow_right: datos de **3** parcelas de pino silvestre (*Pinus sylvestris*) perteneciente al IFN3 (tan solo la primera es original, las dos siguientes han sido inventadas para poder simular varias parcelas a la vez) y que debe de ser utilizado por el modelo **IBEROPS**.
+    *    IFN3_IBEROPS_**3parcelas_diferente_edad**.xlsx :arrow_right: datos de **3** parcelas de pino silvestre (*Pinus sylvestris*) perteneciente al IFN3 (tan solo la primera es original, las dos siguientes han sido inventadas para poder simular varias parcelas a la vez) y que debe de ser utilizado por el modelo **IBEROPS**. Este archivo puede ser utilizado como una prueba para realizar simulaciones con parcelas de diferentes edades iniciales sobre las que se quiere aplicar un mismo itinerario selvícolas.
 
 :bulb: Recuerda que la información de los modelos está disponible en [este repositorio](https://github.com/simanfor/modelos).
 
