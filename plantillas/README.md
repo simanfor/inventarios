@@ -9,7 +9,7 @@
 
 Esta carpeta contiene plantillas de inventario en un formato legible por SIMANFOR. Además, cada plantilla está preparada para ayudar al usuario a autorrellenar algunos campos de información:
 *   **Cladanifer**: plantilla de inventario preparada para el modelo de *Cistus ladanifer*, dado que necesita una serie de datos específicos
-*   **IFN**: plantilla de inventario preparada para autocompletar datos del [Inventario Forestal Nacional](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-forestal-nacional/default.aspx). Puedes consultar los datos del IFN de manera más amigable con el [Explorador Forestal](https://forestexplorer.gsic.uva.es/explorer/)
+*   **IFN**: plantilla de inventario preparada para autocompletar datos del [Inventario Forestal Nacional](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-forestal-nacional/default.aspx). Puedes consultar los datos del IFN de manera más amigable con el [Explorador Forestal](https://forestexplorer.gsic.uva.es/explorer/) y descargarlos con la herramienta [Descarga IFN](https://descargaifn.gsic.uva.es/es/)
 *   **Masas_mixtas_Espana**: plantilla de inventario preparada para el modelo de **Masas mixtas de España**, dado que necesita una serie de datos específicos
 *   **Plantillas_sencillas**: plantillas de inventario vacías sin funciones de autocompletado
 *   **Tablas_produccion**: plantilla de inventario diseñada para introducir datos de tablas de producción (datos de parcela) y autocompletar la información de los árboles con "árboles tipo"

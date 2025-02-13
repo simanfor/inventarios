@@ -15,6 +15,11 @@
 
 En este repositorio encontrarás documentación que te ayudará a entender cómo construir tu propio inventario de datos, así como plantillas y ejemplos listos para ser utilizados.
 
+:thinking: ¿Y si no tengo datos para utilizar en SIMANFOR?
+
+:wink: No te preocupes, en este respositorio encontrarás datos de ejemplo para cada modelo obtenidos del 
+[Inventario Forestal Nacional](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-forestal-nacional/default.aspx). Puedes consultar los datos del IFN de manera más amigable con el [Explorador Forestal](https://forestexplorer.gsic.uva.es/explorer/) y descargarlos con la herramienta [Descarga IFN](https://descargaifn.gsic.uva.es/es/).
+
 ---
 
 ## :scroll: Contenido
