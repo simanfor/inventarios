@@ -20,7 +20,9 @@ Esta carpeta contiene diferentes inventarios con datos listos para ser utilizado
 
 * :floppy_disk: ***Tgrandis_Campeche.xlsx***: datos obtenidos de la publicación original del modelo de *Tectona grandis*. Puede ser utilizado con el modelo *Tgrandis México*
 
-* :deciduous_tree::evergreen_tree: :open_file_folder: ***modelos_arbol_individual-masas_mixtas*** contiene inventarios para ser utilizados con el modelo *Masas mixtas de España*. Los datos fueron tomados el Inventario Forestal Nacional (IFN) de España
+* :deciduous_tree::evergreen_tree: :open_file_folder: ***modelos_arbol_individual-masas_mixtas*** contiene inventarios para ser utilizados con el modelo *Masas mixtas de España*. Los datos fueron tomados el Inventario Forestal Nacional (IFN) de España. 
+
+:exclamation: Debido al peso del fichero, el archivo que contiene todas las parcelas con mezclas de especies del IFN se encuentra en este [repositorio de OneDrive](https://uvaes-my.sharepoint.com/:x:/g/personal/aitor_vazquez_veloso_uva_es/EVkAvhindmlIg4427exMBAUBlC0iv2_bqMGr8MNHuIWEnw?e=wWb1cn)
 
 * :deciduous_tree::wood: :open_file_folder: ***modelos_arbol_individual-masas_puras*** contiene inventarios para ser utilizados con modelos de árbol individual. El propio nombre del archivo te indica el modelo para el que puede ser utilizado el inventario (*Phalepensis_Aragon*, *Pnigra_Cataluna*...) y el número de parcelas que contiene (*1 parcela, 3 parcelas, todas las parcelas disponibles*). Los datos fueron tomados el Inventario Forestal Nacional (IFN) de España
 
