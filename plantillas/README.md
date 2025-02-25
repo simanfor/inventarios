@@ -6,15 +6,26 @@
 
 ---
 
+Esta carpeta contiene plantillas de inventario en un formato legible por SIMANFOR. Además, cada plantilla está preparada para ayudar al usuario a autorrellenar algunos campos de información.
 
-Esta carpeta contiene plantillas de inventario en un formato legible por SIMANFOR. Además, cada plantilla está preparada para ayudar al usuario a autorrellenar algunos campos de información:
-*   **Cladanifer**: plantilla de inventario preparada para el modelo de *Cistus ladanifer*, dado que necesita una serie de datos específicos
-*   **IFN**: plantilla de inventario preparada para autocompletar datos del [Inventario Forestal Nacional](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-forestal-nacional/default.aspx). Puedes consultar los datos del IFN de manera más amigable con el [Explorador Forestal](https://forestexplorer.gsic.uva.es/explorer/) y descargarlos con la herramienta [Descarga IFN](https://descargaifn.gsic.uva.es/es/)
-*   **Masas_mixtas_Espana**: plantilla de inventario preparada para el modelo de **Masas mixtas de España**, dado que necesita una serie de datos específicos
-*   **Plantillas_sencillas**: plantillas de inventario vacías sin funciones de autocompletado
-*   **Tablas_produccion**: plantilla de inventario diseñada para introducir datos de tablas de producción (datos de parcela) y autocompletar la información de los árboles con "árboles tipo"
+:1234: :evergreen_tree: :deciduous_tree: Los códigos de las distintas especies forestales que se utilizan en SIMANFOR puedes encontrarlos en [este archivo](../recursos/IFN4_codigos_especies.csv).
 
-*Para muchos de los casos se incluye una plantilla en español (ES), inglés (EN) y gallego (GL).*
+:bulb: Las plantillas están preparadas en inglés y español con los nombres de columnas necesarios para que la simulación funcione correctamente, y se ha indicado con un código de colores los campos que han de ser rellenados según el caso de uso. Además, se ha rellenado la plantilla con datos para dos tipos de modelos, el modelo *Masas mixtas de España* (*datos_masas_mixtas*) y *Ppinaster Sistema Ibérico Meridional - IBEROPT* (*datos_Ppinaster_IBEROPT*), ilustrando así dos ejemplos de uso. Recuerda que en la carpeta [ejemplos](../ejemplos/) tienes un inventario de ejemplo para cada modelo disponible en SIMANFOR.
+
+---
+
+### :file_folder: Contenido:
+
+
+* :es: :floppy_disk: ***plantilla_inventario_SIMANFOR-ES***: plantilla de inventario para los modelos de SIMANFOR (versión en español). :warning: **ATENCIÓN**, antes de crear tu propio escenario lee las instrucciones que encontrarás en la hoja de *Metadatos* detenidamente, ahí encontrarás qué campos has de cubrir según el modelo a utilizar y qué significa cada campo:
+
+![](./images/metadata_es.png)
+
+* 🇬🇧 :floppy_disk: ***SIMANFOR_inventory_template-EN***: *inventory template for SIMANFOR models (English version)*. :warning: **WARNING**, before creating your own scenario read the instructions in the *Metadata* sheet carefully, you will find there which fields you have to cover according to the model you are using and what each field means:
+
+![](./images/metadata_en.png)
+
+*   :open_file_folder: ***Cladanifer***: plantilla de inventario preparada para el modelo de *Cistus ladanifer*, dado que necesita una serie de datos específicos
 
 ---
 
