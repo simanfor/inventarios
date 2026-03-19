@@ -16,14 +16,27 @@ Esta carpeta contiene plantillas de inventario en un formato legible por SIMANFO
 
 ### :file_folder: Contenido:
 
+---
 
-* :es: :floppy_disk: ***plantilla_inventario_SIMANFOR-ES***: plantilla de inventario para los modelos de SIMANFOR (versión en español). :warning: **ATENCIÓN**, antes de crear tu propio escenario lee las instrucciones que encontrarás en la hoja de *Metadatos* detenidamente, ahí encontrarás qué campos has de cubrir según el modelo a utilizar y qué significa cada campo:
+:es: :warning: **ATENCIÓN**, antes de crear tu propio escenario lee las instrucciones que encontrarás en la hoja de *Metadatos* detenidamente, ahí encontrarás qué campos has de cubrir según el modelo a utilizar y qué significa cada campo:
 
-![](./images/metadata_es.png)
+:uk: :warning: **WARNING**, before creating your own scenario read the instructions in the *Metadata* sheet carefully, you will find there which fields you have to cover according to the model you are using and what each field means:
 
-* 🇬🇧 :floppy_disk: ***SIMANFOR_inventory_template-EN***: *inventory template for SIMANFOR models (English version)*. :warning: **WARNING**, before creating your own scenario read the instructions in the *Metadata* sheet carefully, you will find there which fields you have to cover according to the model you are using and what each field means:
+---
 
-![](./images/metadata_en.png)
+* :es: :floppy_disk: ***Calcular_alturas_Espana-plantilla***: plantilla para el uso del modelo "Cálculo de alturas (España)"
+
+* :es: :floppy_disk: ***Calculo_de_existencias-plantilla.xlsx***: plantilla para el uso del modelo "Cálculo de existencias (España)"
+
+* :es: :floppy_disk: ***masas_puras_Espana-plantilla.xlsx***: plantilla para el uso del modelo "Masas puras de España"
+
+* 🇬🇧 :floppy_disk: ***Norway_sitree_template.xlsx***: inventory template for SIMANFOR Norway sitree model (English version). 
+
+* :es: :floppy_disk: ***plantilla_inventario_SIMANFOR-ES***: plantilla de inventario para los modelos de SIMANFOR (versión en español).
+ 
+* 🇬🇧 :floppy_disk: ***Romanian_stand_template.xlsx***: inventory template for SIMANFOR Romanian stand model (English version). 
+
+* 🇬🇧 :floppy_disk: ***SIMANFOR_inventory_template-EN***: *inventory template for SIMANFOR models (English version)*. 
 
 *   :open_file_folder: ***Cladanifer***: plantilla de inventario preparada para el modelo de *Cistus ladanifer*, dado que necesita una serie de datos específicos
 
