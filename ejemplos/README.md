@@ -12,7 +12,7 @@ Esta carpeta contiene diferentes inventarios con datos listos para ser utilizado
 
 * :floppy_disk: ***Calcular_alturas_Espana.xlsx***: datos de ejemplo para ser utilizarlos con el modelo *Cálculo de alturas (España)*
 
-* :floppy_disk: ***Cladanifer.xlsx***: datos de la [publicación original](dx.doi.org/10.1016/j.agrformet.2015.07.001) de donde se obtuvo el modelo de *Cistus ladanifer*. Puede ser utilizado con el modelo *Cladanifer Zamora*
+* :floppy_disk: ***Cladanifer.xlsx***: datos de la [publicación original](https://dx.doi.org/10.1016/j.agrformet.2015.07.001) de donde se obtuvo el modelo de *Cistus ladanifer*. Puede ser utilizado con el modelo *Cladanifer Zamora*
   
 * :floppy_disk: ***Pnigra_CyL-datos_ejemplo.xlsx***: datos para parcelas con 4 calidades de estación diferentes para pino salgareño (*Pinus nigra*) en Castilla y León, obtenidos de [Del Río et al., 2006](https://www.researchgate.net/publication/265520003_Manual_de_gestion_para_masas_procedentes_de_repoblacion_de_Pinus_pinaster_Ait_Pinus_sylvestris_L_y_Pinus_nigra_Arn_en_Castilla_y_Leon). Puede ser utilizado con el modelo *Pnigra Castilla y León*. Este inventario ha sido elaborado a partir de la [plantilla de inventario](../plantillas/)
 
