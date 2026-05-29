@@ -46,7 +46,6 @@ Esta carpeta contiene plantillas de inventario en un formato legible por SIMANFO
 
 ---
 
-[*Inventarios de datos en SIMANFOR*](https://github.com/simanfor/inventarios) - [*Página web de SIMANFOR*](https://www.simanfor.es/)
-![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
+![simanfor](https://raw.githubusercontent.com/simanfor/.github/main/skills/simanfor-public-md-documentation/resources/simanfor.png)
 
-![iufor](https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png) ![uva_etsiiaa](https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png)
+![SMART_GIR](https://raw.githubusercontent.com/simanfor/.github/main/skills/simanfor-public-md-documentation/resources/SMART_GIR.png)
