@@ -1,8 +1,6 @@
 # Plantilla del modelo *Cladanifer* en
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
-</p>
+![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
 ---
 
@@ -18,24 +16,13 @@ Esta carpeta contiene una plantilla de inventario para el modelo **Cladanifer** 
   
 ---
 
-## :email: Contacto
+## 📧 Contacto
 
 *Para cualquier duda o sugerencia puedes contactar con el equipo técnico de SIMANFOR en simanfor.forest@uva.es*.
 
 ---
 
-<h1 align="center" >
-
 [*Inventarios de datos en SIMANFOR*](https://github.com/simanfor/inventarios) - [*Página web de SIMANFOR*](https://www.simanfor.es/)
+![simanfor](https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png)
 
-</h1>
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/simanfor.png" alt="simanfor" width="500"/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png" alt="iufor" width="350"/>
-<img src="https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png" alt="uva_etsiiaa" width="250"/>
-</p>
+![iufor](https://raw.githubusercontent.com/simanfor/web/main/logos/iufor.png) ![uva_etsiiaa](https://raw.githubusercontent.com/simanfor/web/main/logos/UVa-ETSIIAA.png)
