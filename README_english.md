@@ -14,6 +14,10 @@
 
 In this repository, you will find documentation to help you understand how to build your own data inventory, as well as templates and examples ready to be used.
 
+> 🚧 **Official documentation portal under construction:**  
+> We are centralizing and migrating all SIMANFOR documentation, guides, and resources to our new web portal: **[https://simanfor.github.io/](https://simanfor.github.io/)**.  
+> During this transition period, this repository remains active and fully available for consultation. You can track progress in the repository [simanfor/simanfor.github.io](https://github.com/simanfor/simanfor.github.io).
+
 🤔 What if I don't have data to use in SIMANFOR?
 
 😉 Don't worry! In this repository, you will find sample data for each model, obtained from the [Spanish Forest National Inventory](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-forestal-nacional/default.aspx). You can explore SFNI data in a more user-friendly way with the [Forest Explorer](https://forestexplorer.gsic.uva.es/explorer/) and download it using the [NFI Downloader](https://descargaifn.gsic.uva.es/es/) tool.

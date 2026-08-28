@@ -4,7 +4,7 @@
 
 ---
 
-🇪🇸 **Estas viendo el contenido del repositorio en español**  
+🇪🇸 **Estás viendo el contenido del repositorio en español**  
 
 🇬🇧 *[English version here](./README_english.md)*
 
@@ -13,6 +13,10 @@
 [SIMANFOR](https://www.simanfor.es) es una herramienta de apoyo a la toma de decisiones que permite la simulación de alternativas de gestión forestal.
 
 En este repositorio encontrarás documentación que te ayudará a entender cómo construir tu propio inventario de datos, así como plantillas y ejemplos listos para ser utilizados.
+
+> 🚧 **Portal de documentación oficial en construcción:**  
+> Estamos centralizando y migrando todos los contenidos de documentación, guías y recursos de SIMANFOR a nuestro nuevo portal web: **[https://simanfor.github.io/](https://simanfor.github.io/)**.  
+> Durante este proceso de transición, este repositorio continúa activo y plenamente disponible para su consulta. Puedes seguir los avances en el repositorio [simanfor/simanfor.github.io](https://github.com/simanfor/simanfor.github.io).
 
 🤔 ¿Y si no tengo datos para utilizar en SIMANFOR?
 
